@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import './App.css';
 import Movie from './Movie';
-import { __await } from 'tslib';
+// import { __await } from 'tslib';
 
 class App extends Component {
 
